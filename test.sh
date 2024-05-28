@@ -1,4 +1,3 @@
- cd ~
  cd rmdir css
  cd mkdir scss
  mkdir components
