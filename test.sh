@@ -1,5 +1,5 @@
- cd rmdir css
- cd mkdir scss
+ rmdir css
+ mkdir scss
  mkdir components
  rmdir components
  git add .
